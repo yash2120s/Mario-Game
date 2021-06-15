@@ -26,13 +26,13 @@ function preload(){
   enemySound = loadSound("sounds/enemyspotted.mp3")
   
   laughImage = loadImage('laugh.png')
-  laughSound = loadSound("sounds/enemy1.mp3")
+  laughSound = loadSound("enemy1.mp3")
   
   coffinImage  = loadImage("coffindance.png")
-  coffinSound = loadSound("sounds/enemy.mp3")
+  coffinSound = loadSound("enemy.mp3")
   
   sadImage = loadImage("sad.png")
-  sadSound = loadSound("sounds/sad.mp3")
+  sadSound = loadSound("sad.mp3")
   
   restartImage = loadImage("restart.png")
   
